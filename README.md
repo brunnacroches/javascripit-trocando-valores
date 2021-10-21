@@ -1,2 +1,2 @@
-# javascripit-trocando-valores
-javascripit-trocando-valores
+# javascript-trocando-valores
+javascript-trocando-valores
